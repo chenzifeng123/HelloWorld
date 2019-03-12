@@ -8,7 +8,9 @@ This is the first Android Project
 3.关键代码如下：
 
 public class MainActivity extends AppCompatActivity {
+
     @Override
+    
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
