@@ -1,10 +1,10 @@
 # helloworld
 This is the first Android Project
 
-创建第一个Android工程 
-为了更直观地认识Activity生命周期，在MainActivity中重写Activity的生命周期方法，并在每一个方法中打印出Log以便观察。
+1.创建第一个Android工程 
+2.为了更直观地认识Activity生命周期，在MainActivity中重写Activity的生命周期方法，并在每一个方法中打印出Log以便观察。
 
-关键代码如下：
+3.关键代码如下：
 public class MainActivity extends AppCompatActivity {
     //private static final String
     @Override
