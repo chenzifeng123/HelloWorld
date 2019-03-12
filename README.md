@@ -48,5 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
 ![Image text](https://github.com/chenzifeng123/image/blob/master/001.png)
 
+<img src="(https://github.com/chenzifeng123/image/blob/master/002.jpg" width="150" height="350">
+
 ![Image text](https://github.com/chenzifeng123/image/blob/master/002.jpg)
 
